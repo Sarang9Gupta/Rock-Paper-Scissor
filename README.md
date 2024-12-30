@@ -1,0 +1,1 @@
+Developed a Rock-Paper-Scissors game using OpenCV and the inbuilt Hand Tracking module of CVZone to detect hand gestures corresponding to Rock, Paper, and Scissors. The game generates pre-stored images of Rock, Paper, and Scissors as opponents, compares them with real-time hand gestures, and awards points to the winner of each round.
